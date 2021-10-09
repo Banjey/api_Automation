@@ -1,0 +1,5 @@
+# ignore target
+/target/
+*.idea
+web_automation.iml
+Test Results - TestRunner.html
